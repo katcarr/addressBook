@@ -35,6 +35,19 @@ h1 {
   margin-left: 33%;
 }
 
+#show-contact {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
 
 
 form {
