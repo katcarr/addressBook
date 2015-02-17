@@ -1,7 +1,7 @@
 Address Book
 ============
 
-by Mike Goren & David Zulaica
+by Kathryn Carr & Mike Goren
 
 This is a simple javascript address book application.
 
@@ -10,7 +10,7 @@ Installation
 
 Install Address Book by first cloning the repository.  
 ```
-$ git clone http://github.com/mgoren/addressBook.git
+$ git clone http://github.com/mgoren/addressBook-js.git
 ```
 
 In your web browser, open index.html
